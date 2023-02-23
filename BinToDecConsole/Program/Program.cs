@@ -17,8 +17,10 @@ namespace BinToDecConsole
                 //int cifra = Convert.ToInt32(numBin[pos]);
                 int cifra = (int)Char.GetNumericValue(numBin[pos]);
                 Console.WriteLine($"{pos} La cifra letta è: {cifra}");
-                n += (int)(Math.Pow(2, pes));
+                n += (int)(cifra * Math.Pow(2, pes));
+                pes += 1;
             }
+            Console.WriteLine($"Il numero {n} ");
 
         }
     }
