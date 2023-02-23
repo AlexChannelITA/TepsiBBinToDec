@@ -15,7 +15,7 @@ namespace BinToDecConsole
             for (pos = lungh - 1; pos >= 0; pos--)
             {
                 int cifra = Convert.ToInt32(numBin[pos]);
-                Console.WriteLine($"La cifra letta è: {cifra}");
+                Console.WriteLine($"{pos} La cifra {numBin[pos]} letta è: {cifra}");
             }
 
         }

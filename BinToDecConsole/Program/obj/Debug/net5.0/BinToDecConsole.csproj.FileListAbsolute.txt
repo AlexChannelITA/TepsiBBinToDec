@@ -1,0 +1,16 @@
+C:\Users\alex.duranti_seconda\source\repos\TepsiBBinToDec\BinToDecConsole\Program\bin\Debug\net5.0\BinToDecConsole.exe
+C:\Users\alex.duranti_seconda\source\repos\TepsiBBinToDec\BinToDecConsole\Program\bin\Debug\net5.0\BinToDecConsole.deps.json
+C:\Users\alex.duranti_seconda\source\repos\TepsiBBinToDec\BinToDecConsole\Program\bin\Debug\net5.0\BinToDecConsole.runtimeconfig.json
+C:\Users\alex.duranti_seconda\source\repos\TepsiBBinToDec\BinToDecConsole\Program\bin\Debug\net5.0\BinToDecConsole.runtimeconfig.dev.json
+C:\Users\alex.duranti_seconda\source\repos\TepsiBBinToDec\BinToDecConsole\Program\bin\Debug\net5.0\BinToDecConsole.dll
+C:\Users\alex.duranti_seconda\source\repos\TepsiBBinToDec\BinToDecConsole\Program\bin\Debug\net5.0\ref\BinToDecConsole.dll
+C:\Users\alex.duranti_seconda\source\repos\TepsiBBinToDec\BinToDecConsole\Program\bin\Debug\net5.0\BinToDecConsole.pdb
+C:\Users\alex.duranti_seconda\source\repos\TepsiBBinToDec\BinToDecConsole\Program\obj\Debug\net5.0\BinToDecConsole.csproj.AssemblyReference.cache
+C:\Users\alex.duranti_seconda\source\repos\TepsiBBinToDec\BinToDecConsole\Program\obj\Debug\net5.0\BinToDecConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex.duranti_seconda\source\repos\TepsiBBinToDec\BinToDecConsole\Program\obj\Debug\net5.0\BinToDecConsole.AssemblyInfoInputs.cache
+C:\Users\alex.duranti_seconda\source\repos\TepsiBBinToDec\BinToDecConsole\Program\obj\Debug\net5.0\BinToDecConsole.AssemblyInfo.cs
+C:\Users\alex.duranti_seconda\source\repos\TepsiBBinToDec\BinToDecConsole\Program\obj\Debug\net5.0\BinToDecConsole.csproj.CoreCompileInputs.cache
+C:\Users\alex.duranti_seconda\source\repos\TepsiBBinToDec\BinToDecConsole\Program\obj\Debug\net5.0\BinToDecConsole.dll
+C:\Users\alex.duranti_seconda\source\repos\TepsiBBinToDec\BinToDecConsole\Program\obj\Debug\net5.0\ref\BinToDecConsole.dll
+C:\Users\alex.duranti_seconda\source\repos\TepsiBBinToDec\BinToDecConsole\Program\obj\Debug\net5.0\BinToDecConsole.pdb
+C:\Users\alex.duranti_seconda\source\repos\TepsiBBinToDec\BinToDecConsole\Program\obj\Debug\net5.0\BinToDecConsole.genruntimeconfig.cache
