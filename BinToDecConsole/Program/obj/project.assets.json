@@ -15,9 +15,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\alex.duranti_seconda\\source\\repos\\TepsiBBinToDec\\BinToDecConsole\\Program\\Program.csproj",
-      "projectName": "Program",
-      "projectPath": "C:\\Users\\alex.duranti_seconda\\source\\repos\\TepsiBBinToDec\\BinToDecConsole\\Program\\Program.csproj",
+      "projectUniqueName": "C:\\Users\\alex.duranti_seconda\\source\\repos\\TepsiBBinToDec\\BinToDecConsole\\Program\\BinToDecConsole.csproj",
+      "projectName": "BinToDecConsole",
+      "projectPath": "C:\\Users\\alex.duranti_seconda\\source\\repos\\TepsiBBinToDec\\BinToDecConsole\\Program\\BinToDecConsole.csproj",
       "packagesPath": "C:\\Users\\alex.duranti_seconda\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\alex.duranti_seconda\\source\\repos\\TepsiBBinToDec\\BinToDecConsole\\Program\\obj\\",
       "projectStyle": "PackageReference",

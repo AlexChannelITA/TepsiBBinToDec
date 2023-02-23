@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "a4rUW3CAC//tP1s+jGGISpS64iu2JCfkasFqcupzAc7UbCtPGP0a9q3aKvernp52CVxb+QnZrVKG4Y0Sy1Kq2g==",
+  "dgSpecHash": "FmQPJtiDtK0JZCV4jauytq//C/83UU7tkA3YGbFycIj+eZrUnu3s3ITbTjovHilhFMSF5/ddPhCo1H/W9igEdQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\alex.duranti_seconda\\source\\repos\\TepsiBBinToDec\\BinToDecConsole\\Program\\Program.csproj",
+  "projectFilePath": "C:\\Users\\alex.duranti_seconda\\source\\repos\\TepsiBBinToDec\\BinToDecConsole\\Program\\BinToDecConsole.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
