@@ -6,7 +6,7 @@ namespace BinToDecConsole
     {
         static void Main(string[] args)
         {
-            int n, lungh, pos=0, pes=0;
+            int n=0, lungh, pos=0, pes=0;
 
             Console.WriteLine("Inserisci il numero binario");
             string numBin = Console.ReadLine();
@@ -17,6 +17,7 @@ namespace BinToDecConsole
                 //int cifra = Convert.ToInt32(numBin[pos]);
                 int cifra = (int)Char.GetNumericValue(numBin[pos]);
                 Console.WriteLine($"{pos} La cifra letta è: {cifra}");
+                n += (int)(Math.Pow(2, pes));
             }
 
         }
